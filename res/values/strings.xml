@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Quiz 4 u</string>
+    <string name="radio_male">M.K.Gandhi</string>
+    <string name="radio_gale">Rahul Gandhi</string>
+    <string name="radio_female">Sanjay Gandhi</string>
+    <string name="radio_banyan">Banyan</string>
+    <string name="radio_neem">Neem</string>
+    <string name="radio_tulasi">Tulasi</string>
+    <string name="radio_peacock">Peacock</string>
+    <string name="radio_sparrow">Sparrow</string>
+    <string name="radio_crow">Crow</string>
+    <string name="radio_tiger">Tiger</string>
+    <string name="radio_lion">Lion</string>
+    <string name="radio_fox">Fox</string>
+    <string name="btn_display">Display</string>
+</resources>
